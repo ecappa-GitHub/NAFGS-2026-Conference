@@ -1,6 +1,4 @@
 # NAFGS-2026-Conference
-Machine Learning-Augmented Single- and Multi-Trait ssGBLUP for Enhanced Genomic Prediction in White Spruce
-
 Repository containing the conference poster and abstract presented at the NAFGS 2026 Conference.
 
 Conference Information
